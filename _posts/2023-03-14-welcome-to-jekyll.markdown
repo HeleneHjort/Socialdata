@@ -7,13 +7,12 @@ permalink: /my page
 # This is my first plot!
 ![crime data](/Images/firstplot.png)
 
-# Bokeh plot
 
 # Bokeh plot
 
-<embed
+<embed>
        type="text/html" 
        src="/bokeh/crime.html"
        width="1100"
-       height="600">
+       height="600"
 </embed>
