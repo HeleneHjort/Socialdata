@@ -9,10 +9,11 @@ permalink: /my page
 
 # Bokeh plot
 
-<embed 
+# Bokeh plot
+
+<embed
        type="text/html" 
        src="/bokeh/crime.html"
        width="1100"
-       height="600"
-       >
+       height="600">
 </embed>
