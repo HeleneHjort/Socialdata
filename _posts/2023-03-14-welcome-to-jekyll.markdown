@@ -12,7 +12,7 @@ permalink: /my page
 
 <embed
        type="text/html" 
-       src="Bokeh/crime.html"
+       src="/Bokeh/crime.html"
        width="800"
        height="300">
 </embed>
