@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Unveiling the Possibilities in the Startup Ecosystem and Venture Capital Investments
-permalink: /Cracking the Startup Code/
+title: Analysis
+permalink: /Analysis/
 ---
-# This is my first plot!
+# Unveiling the Possibilities in the Startup Ecosystem and Venture Capital Investments
 ![crime data](/Images/firstplot.png)
 
 
