@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Background information 
-permalink: /Background information/
+title: Background Information 
+permalink: /Background Information/
 ---

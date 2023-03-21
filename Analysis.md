@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "My page"
-permalink: /my page
+title: Unveiling the Possibilities in the Startup Ecosystem and Venture Capital Investments
+permalink: /Cracking the Startup Code/
 ---
 # This is my first plot!
 ![crime data](/Images/firstplot.png)
