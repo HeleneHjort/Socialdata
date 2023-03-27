@@ -3,7 +3,16 @@ layout: page
 title: Analysis
 permalink: /Analysis/
 ---
-# Unveiling the Possibilities in the Startup Ecosystem and Venture Capital Investments
+
+
+
+
+
+# Introduction this is a plotly plot!
+
+{% include_relative Bokeh/cities.html %}
+
+# General trends
 ![crime data](/Images/firstplot.png)
 
 
@@ -14,3 +23,5 @@ permalink: /Analysis/
        width="1100"
        height="600"
 />
+
+# Conclusion 
