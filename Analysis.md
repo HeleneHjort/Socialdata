@@ -8,7 +8,7 @@ permalink: /Analysis/
 
 
 
-# Introduction this is a plotly plot!
+# Introduction this is a plotly plot
 
 {% include_relative Bokeh/cities.html %}
 
