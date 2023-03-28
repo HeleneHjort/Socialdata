@@ -11,7 +11,12 @@ permalink: /Analysis/
 # Introduction this is a plotly plot
 ejmflwekmrwlærqwæoekwoæweklæerlker!
 
-{% include_relative Bokeh/cities.html %}
+<embed
+       type="text/html" 
+       src="/Bokeh/cities.html"
+       width="1100"
+       height="600"
+/>  
 
 # General trends
 ![crime data](/Images/firstplot.png)
