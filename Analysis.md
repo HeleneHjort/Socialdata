@@ -14,14 +14,14 @@ permalink: /Analysis/
 <embed
        type="text/html" 
        src="/Bokeh/cities.html"
-       width="1100"
+       width="1200"
        height="600"
 />  
 
 <embed
        type="text/html" 
        src="/Bokeh/heatmap.html"
-       width="1100"
+       width="900"
        height="600"
 /> 
 
