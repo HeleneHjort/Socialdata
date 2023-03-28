@@ -8,8 +8,8 @@ permalink: /Analysis/
 
 
 
-# Introduction this is a plotly plot
-ejmflwekmrwlærqwæoekwoæweklæerlker!
+# Introduction 
+
 
 <embed
        type="text/html" 
@@ -18,17 +18,14 @@ ejmflwekmrwlærqwæoekwoæweklæerlker!
        height="600"
 />  
 
-# General trends
-![crime data](/Images/firstplot.png)
-
-
-# Bokeh plot
 <embed
        type="text/html" 
-       src="/Bokeh/crime.html"
+       src="/Bokeh/heatmap.html"
        width="1100"
        height="600"
-/>
+/> 
+
+# General trends
+
 
 # Conclusion 
-ljfkedkwdwmn
