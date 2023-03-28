@@ -9,9 +9,9 @@ permalink: /Analysis/
 
 
 # Introduction this is a plotly plot
-ejmflwekmrwlærqwæoekwoæweklæ
+ejmflwekmrwlærqwæoekwoæweklæerlker!
 
-{% include_relative Bokeh/cities.html %}
+
 
 # General trends
 ![crime data](/Images/firstplot.png)
