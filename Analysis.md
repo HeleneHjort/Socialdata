@@ -9,7 +9,17 @@ permalink: /Analysis/
 
 
 # Introduction 
+The startup ecosystem is rapidly growing worldwide, and many countries are becoming hotspots for new businesses and innovation. Every year, about 305 million startups are created, and according to 2019 statistics, about 90% of these startups fail. As seen below, the US is the country with the highest number of startups; therefore, the US cities are the focus of this article.
+
+<embed
+       type="text/html" 
+       src="/Bokeh/country.html"
+       width="1200"
+       height="600"
+/>  
+
 Did you know that statistics show that three million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy. That's right, startups have a significant impact on the cities they operate in and the people who live there. These companies not only create new jobs and spur economic growth but also contribute to the development of local communities. 
+
 
 The presence of startups can attract talent and investment to a city, leading to new businesses and increased prosperity. Startups often bring new technologies and innovative solutions to existing problems, which can benefit the wider community.
 The type of city can also significantly impact the success of startups. For example, cities with a strong culture of innovation and entrepreneurship, such as San Francisco and New York City, tend to have a higher concentration of startups. These cities often have a large pool of talent, access to capital, and a supportive regulatory environment, which can be essential factors in the success of startups. 
@@ -37,7 +47,7 @@ This article will explore this by analyzing educational background data, locatio
 # Foundings 
 <embed
        type="text/html" 
-       src="/Bokeh/heatmap.html"
+       src="/Socialdata/heatmap2.html"
        width="900"
        height="600"
 /> 
