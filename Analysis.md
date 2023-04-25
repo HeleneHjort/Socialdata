@@ -10,6 +10,12 @@ permalink: /Analysis/
 
 # Introduction 
 
+<embed
+       type="text/html" 
+       src="/Bokeh/country.html"
+       width="1200"
+       height="600"
+/>  
 
 <embed
        type="text/html" 
