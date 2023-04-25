@@ -4,20 +4,14 @@ title: Analysis
 permalink: /Analysis/
 ---
 
-
-
-
-
 # Introduction 
 The startup ecosystem is rapidly growing worldwide, and many countries are becoming hotspots for new businesses and innovation. Every year, about 305 million startups are created, and according to 2019 statistics, about 90% of these startups fail. As seen below, the US is the country with the highest number of startups; therefore, the US cities are the focus of this article.
-
 <embed
        type="text/html" 
        src="/Bokeh/country.html"
        width="1200"
        height="600"
 />  
-
 Did you know that statistics show that three million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy. That's right, startups have a significant impact on the cities they operate in and the people who live there. These companies not only create new jobs and spur economic growth but also contribute to the development of local communities. 
 
 
@@ -29,14 +23,7 @@ Overall, the relationship between startups and cities is complex and multifacete
 
 This article will explore this by analyzing educational background data, location, founding dates, investments, and more. Using data science and visualization, we will investigate the factors that contribute to the growth of startups in cities. Our dataset comes from various sources, including US public data, background information about founders, placement, investments, etc. By the end of this article, we hope to provide readers with a deeper understanding of the startup ecosystem in cities and the factors that make them successful.
 
-# General trends
-<embed
-       type="text/html" 
-       src="/Bokeh/country.html"
-       width="1200"
-       height="600"
-/>  
-
+# General trends across US
 <embed
        type="text/html" 
        src="/Bokeh/cities.html"
@@ -44,10 +31,10 @@ This article will explore this by analyzing educational background data, locatio
        height="600"
 />  
 
-# Foundings 
+# Fundings 
 <embed
        type="text/html" 
-       src="/Socialdata/heatmap2.html"
+       src="/Bokeh/heatmap2.html"
        width="900"
        height="600"
 /> 
