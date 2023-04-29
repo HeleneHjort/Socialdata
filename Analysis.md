@@ -88,9 +88,25 @@ The type of startup companies can vary significantly from state to state. For ex
 </figure>
 There are two primary hubs of activity in California: Silicon Valley and Los Angeles. These regions are known for being home to many new and innovative companies driving the state's economy and shaping the future of technology and business. These areas are also characterized by a dense concentration of venture capital firms, incubators, and accelerators providing the resources and support startups need to grow and thrive. Silicon Valley, located in northern California, is the birthplace of many of the world's most successful tech companies, including Apple, Google, and Facebook. Los Angeles, located in the southern part of California, is known for having its unique startup ecosystem focused on industries such as entertainment, media, and e-commerce. In addition, the map of companies in CA also shows that there is a large number of companies in the biotech sector. 
 
+<figure>
+    <embed
+       type="text/html" 
+       src="/plot/CA.html"
+       width="900"
+       height="500"
+/>  
+    <figcaption>Fig 6: .</figcaption>
+</figure>
 
-
-
+<figure>
+    <embed
+       type="text/html" 
+       src="/plot/NY.html"
+       width="900"
+       height="500"
+/>  
+    <figcaption>Fig 7: .</figcaption>
+</figure>
 
 # Fundings 
 
