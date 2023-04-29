@@ -10,7 +10,7 @@ The startup ecosystem is rapidly growing worldwide, and many countries are becom
 <figure>
     <embed
         type="text/html" 
-        src="/Bokeh/country.html"
+        src="/plot/country.html"
         width="1100"
         height="600"
     />
@@ -20,7 +20,7 @@ The startup ecosystem is rapidly growing worldwide, and many countries are becom
 Did you know that statistics show that three million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy. The data for this article also shows a growing trend of startups in the US. 
 <embed
        type="text/html" 
-       src="/Bokeh/year_count.html"
+       src="/plot/year_count.html"
        width="1200"
        height="600"
 />  
@@ -30,7 +30,7 @@ This article will explore this by analyzing educational background data, locatio
 # General trends across US
 <embed
        type="text/html" 
-       src="/Bokeh/cities.html"
+       src="/plot/cities.html"
        width="1200"
        height="600"
 />  
@@ -38,7 +38,7 @@ This article will explore this by analyzing educational background data, locatio
 # Fundings 
 <embed
        type="text/html" 
-       src="/Bokeh/heatmap2.html"
+       src="/plot/heatmap2.html"
        width="900"
        height="600"
 /> 
