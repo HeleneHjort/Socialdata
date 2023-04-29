@@ -80,7 +80,7 @@ The type of startup companies can vary significantly from state to state. For ex
 <figure>
     <embed
        type="text/html" 
-       src="/plot/comp_cat_files/bokeh-3.0.3.min.js"
+       src="/plot/comp_cat_files.html"
        width="900"
        height="500"
 />  
