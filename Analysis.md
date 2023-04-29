@@ -24,12 +24,16 @@ The startup ecosystem is rapidly growing worldwide, and many countries are becom
 </figure>
 
 Did you know that statistics show that three million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy. The data for this article also shows a growing trend of startups in the US. 
-<embed
+
+<figure>
+    <embed
        type="text/html" 
        src="/plot/year_count.html"
-       width="1200"
-       height="600"
+       width="900"
+       height="500"
 />  
+    <figcaption>Fig 2: Number of Companies Founded Each Year in US.</figcaption>
+</figure>
 Startups can have a significant impact on the cities they operate in and the people who live there. These companies not only create new jobs and economic growth but also contribute to the development of local communities. Overall, the relationship between startups and cities is complex and multifaceted. Startups have the potential to drive economic growth, create jobs, and transform industries, but the question remains, is it the city that gives birth to startups, or do startups move to the city? And can we find the explanation of which factors the company's success depends on?
 This article will explore this by analyzing educational background data, location, founding dates, investments, and more. Using data science and visualization, we will investigate the factors that contribute to the growth and success of startups in cities. Our dataset comes from various sources, including US public data, background information about founders, placement, venture capital investments, etc. By the end of this article, we hope to provide readers with a deeper understanding of the startup ecosystem in cities and unveiling the patterns and possibilities within.
 
