@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+<style>
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.0.3.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="5fb84073-cb77-44c1-a3ab-0c75059527c0" data-root-id="p12980" style="display: contents;"></div>
+  
+    <script type="application/json" id="p13307">
+      {"4050bc3b-a3d0-422d-a7a9-6d8aa881c9df":{"version":"3.0.3","title":"Bokeh Application","defs":[],"roots":[{"type":"object","name":"Figure","id":"p12980","attributes":{"min_width":900,"x_range":{"type":"object","name":"FactorRange","id":"p12979","attributes":{"factors":["software","web","other","mobile","ecommerce","biotech","advertising","enterprise","consulting"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p12982"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p12993"},"y_scale":{"type":"object","name":"LinearScale","id":"p12995"},"title":{"type":"object","name":"Title","id":"p12983","attributes":{"text":"Categories of Startup companies in USA"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p13031","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p12976","attributes":{"selected":{"type":"object","name":"Selection","id":"p12978","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p12977"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"BwAAAAgAAAAGAAAABQAAAAMAAAABAAAAAAAAAAQAAAACAAAA"},"shape":[9],"dtype":"int32","order":"little"}],["category_code",{"type":"ndarray","array":["software","web","other","mobile","ecommerce","biotech","advertising","enterprise","consulting"],"shape":[9],"dtype":"object","order":"little"}],["CA",{"type":"ndarray","array":{"type":"bytes","data":"AAkAAO8HAACZBAAALQQAADYDAAA1AwAAJgMAAOkCAAD0AQAA"},"shape":[9],"dtype":"int32","order":"little"}],["NY",{"type":"ndarray","array":{"type":"bytes","data":"iAIAAC8DAAArAgAAKAEAAL4BAACCAAAAwAEAALAAAADdAAAA"},"shape":[9],"dtype":"int32","order":"little"}],["Others",{"type":"ndarray","array":{"type":"bytes","data":"EBQAAD8LAABRCgAAIAUAAEQGAAAcCAAAoQUAANwEAABDBQAA"},"shape":[9],"dtype":"int32","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p13032","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p13033"}}},"glyph":{"type":"object","name":"VBar","id":"p13028","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"fill_color":{"type":"value","value":"#2c7fb8"},"hatch_color":{"type":"value","value":"#2c7fb8"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p13029","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#2c7fb8"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#2c7fb8"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p13030","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#2c7fb8"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#2c7fb8"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}},{"type":"object","name":"GlyphRenderer","id":"p13040","attributes":{"data_source":{"id":"p12976"},"view":{"type":"object","name":"CDSView","id":"p13041","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p13042"}}},"glyph":{"type":"object","name":"VBar","id":"p13037","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#7fcdbb"},"fill_color":{"type":"value","value":"#7fcdbb"},"hatch_color":{"type":"value","value":"#7fcdbb"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p13038","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#7fcdbb"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#7fcdbb"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#7fcdbb"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p13039","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#7fcdbb"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#7fcdbb"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#7fcdbb"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}},{"type":"object","name":"GlyphRenderer","id":"p13049","attributes":{"data_source":{"id":"p12976"},"view":{"type":"object","name":"CDSView","id":"p13050","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p13051"}}},"glyph":{"type":"object","name":"VBar","id":"p13046","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#edf8b1"},"fill_color":{"type":"value","value":"#edf8b1"},"hatch_color":{"type":"value","value":"#edf8b1"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p13047","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#edf8b1"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#edf8b1"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#edf8b1"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p13048","attributes":{"x":{"type":"field","field":"category_code"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#edf8b1"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#edf8b1"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#edf8b1"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}}],"toolbar":{"type":"object","name":"Toolbar","id":"p12989","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p13010"},{"type":"object","name":"WheelZoomTool","id":"p13011"},{"type":"object","name":"BoxZoomTool","id":"p13012","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p13013","attributes":{"syncable":false,"level":"overlay","visible":false,"left_units":"canvas","right_units":"canvas","bottom_units":"canvas","top_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p13014"},{"type":"object","name":"ResetTool","id":"p13015"},{"type":"object","name":"HelpTool","id":"p13016"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p13003","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p13005","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p13004"},"axis_label":"Number of startups","major_label_policy":{"type":"object","name":"AllLabels","id":"p13006"}}}],"right":[{"type":"object","name":"Legend","id":"p13052","attributes":{"click_policy":"mute","items":[{"type":"object","name":"LegendItem","id":"p13053","attributes":{"label":{"type":"value","value":"CA"},"renderers":[{"id":"p13031"}]}},{"type":"object","name":"LegendItem","id":"p13054","attributes":{"label":{"type":"value","value":"Others"},"renderers":[{"id":"p13040"}]}},{"type":"object","name":"LegendItem","id":"p13055","attributes":{"label":{"type":"value","value":"NY"},"renderers":[{"id":"p13049"}]}}]}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p12997","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p12999"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p12998"},"axis_label":"Startup Categories","major_label_policy":{"type":"object","name":"AllLabels","id":"p13000"}}}],"center":[{"type":"object","name":"Grid","id":"p13002","attributes":{"axis":{"id":"p12997"}}},{"type":"object","name":"Grid","id":"p13009","attributes":{"dimension":1,"axis":{"id":"p13003"}}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p13307').textContent;
+              const render_items = [{"docid":"4050bc3b-a3d0-422d-a7a9-6d8aa881c9df","roots":{"p12980":"5fb84073-cb77-44c1-a3ab-0c75059527c0"},"root_ids":["p12980"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
