@@ -3,6 +3,15 @@ layout: page
 title: Analysis
 permalink: /Analysis/
 ---
+<style>
+    figure {
+        margin: 0;
+        padding: 0;
+    }
+    figcaption {
+        font-size: 1.2em;
+    }
+</style>
 
 # Introduction 
 The startup ecosystem is rapidly growing worldwide, and many countries are becoming hotspots for new businesses and innovation. Every year, about 305 million startups are created, and according to 2019 statistics, about 90% of these startups fail. As seen below, the US is the country with the highest number of startups; therefore, the US cities are the focus of this article. In 2023, the country with the most startups will be the US, followed by countries such as India, the UK, Canada, Australia and Germany. Diving into our data from Kaggle, we see a similar distribution. It can be seen that in our dataset there are far more startups from the US and therefore, the US cities are the focus of this article.
@@ -11,8 +20,8 @@ The startup ecosystem is rapidly growing worldwide, and many countries are becom
     <embed
         type="text/html" 
         src="/plot/country.html"
-        width="1100"
-        height="600"
+        width="900"
+        height="500"
     />
     <figcaption>Fig 1: Top 10 largest startups countries and number of startups worldwide.</figcaption>
 </figure>
