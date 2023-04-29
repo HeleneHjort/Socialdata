@@ -4,10 +4,7 @@ title: Analysis
 permalink: /Analysis/
 ---
 <style>
-    figure {
-        margin: 0;
-        padding: 0;
-    }
+    
     figcaption {
         font-size: 1.2em;
     }
