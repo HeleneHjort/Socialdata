@@ -23,7 +23,7 @@ permalink: /Analysis/
 
 
 # Introduction 
-The startup ecosystem is rapidly growing worldwide, and many countries are becoming hotspots for new businesses and innovation. Every year, about 305 million startups are created, and according to 2019 statistics, about 90% of these startups fail. As seen below, the US has the highest number of startups; therefore, the US cities are the focus of this article. In 2023, the country with the most startups will be the US, followed by countries such as India, the UK, Canada, Australia and Germany. Diving into data from Kaggle, we see a similar distribution.
+The startup ecosystem is rapidly growing worldwide, and many countries are becoming hotspots for new businesses and innovation. Every year, about 305 million startups are created, and according to 2019 statistics, about 90% of these startups fail [1](https://websitebuilder.org/blog/how-many-startups-are-there/){:target="_blank"}{:rel="noopener noreferrer"} [2](https://www.demandsage.com/startup-statistics/){:target="_blank"}{:rel="noopener noreferrer"}. As seen below, the US has the highest number of startups; therefore, the US cities are the focus of this article. 
 <figure>
     <embed
         type="text/html" 
@@ -33,7 +33,7 @@ The startup ecosystem is rapidly growing worldwide, and many countries are becom
     />
     <figcaption>Fig 1: </figcaption>
 </figure>
-Did you know that statistics show 3 million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy. The data for this article also shows a growing trend of startups in the US over the years. 
+Did you know that statistics show 3 million new jobs were created in the United States through less than one year old businesses from March 1994 to March 2021? This means that during the Internet-driven boom from 1990 to 2000, startup firms accounted for about 70% of all new jobs in the US economy [3](https://www.statista.com/statistics/235515/jobs-created-by-start-ups-in-the-us/#statisticContainer){:target="_blank"}{:rel="noopener noreferrer"}. The data for this article also shows a growing trend of startups in the US over the years. 
 <figure>
     <embed
        type="text/html" 
@@ -43,7 +43,7 @@ Did you know that statistics show 3 million new jobs were created in the United 
 />  
     <figcaption>Fig 2: .</figcaption>
 </figure>
-Although there is an increase in new business startups, not all of them survive. 80% of all startups in the US fail, with health tech and e-commerce being some of the most challenging industries to succeed in. This article mainly looks at companies that are still open, as 86.5% of companies are operating. 
+Although there is an increase in new business startups, not all of them survive. 80% of all startups in the US fail, with health tech and e-commerce being some of the most challenging industries to succeed in [4](https://www.demandsage.com/startup-failure-rate/){:target="_blank"}{:rel="noopener noreferrer"}. This article mainly looks at companies that are still open, as 86.5% of companies are operating. 
 <figure>
     <embed
        type="text/html" 
@@ -101,7 +101,7 @@ The map below shows the exact locations of the companies' offices and the indust
 />  
     <figcaption>Fig 7: .</figcaption>
 </figure>
-If you look at New York, it is unsurprising that the biggest hub is in New York City. NYC is characterised by its vibrant city life, diversity and business. Finance and management consulting are buzzwords for NYC, and many of the world's largest companies call the city home. McKinsey & Company, Chartis Group and Bain & Company are among these firms. Not all firms were founded in NYC, but their city location is among the factors attracting start-up consultancies. Beyond consulting, NYC also rivals San Francisco regarding tech start-ups, with companies such as IBM, Etsy and E*Trade all born in NYC. Pfizer and Goldman Sachs are other examples of companies founded in NYC. The city continues attracting bright minds, with new companies popping up daily in a wide range of sectors, as seen in the NYC companies map.
+If you look at New York, it is unsurprising that the biggest hub is in New York City. NYC is characterised by its vibrant city life, diversity and business. Finance and management consulting are buzzwords for NYC, and many of the world's largest companies call the city home. McKinsey & Company, Chartis Group and Bain & Company are among these firms [5](https://www.consultancy.uk/news/13677/the-top-10-management-consulting-firms-to-work-for-in-new-york){:target="_blank"}{:rel="noopener noreferrer"}. Not all firms were founded in NYC, but their city location is among the factors attracting start-up consultancies. Beyond consulting, NYC also rivals San Francisco regarding tech start-ups, with companies such as IBM, Etsy and E*Trade all born in NYC [6](https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/the-history-of-new-yorks-silicon-alley/){:target="_blank"}{:rel="noopener noreferrer"}. Pfizer and Goldman Sachs are other examples of companies founded in NYC. The city continues attracting bright minds, with new companies popping up daily in a wide range of sectors, as seen in the NYC companies map.
 <figure>
     <embed
        type="text/html" 
