@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+<style>
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.0.3.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="c6b1a473-db77-4b31-9cf5-20d2737f5a9a" data-root-id="p5652" style="display: contents;"></div>
+  
+    <script type="application/json" id="p5980">
+      {"52f5e891-d46b-4329-b869-1e470b58bbb7":{"version":"3.0.3","title":"Bokeh Application","defs":[],"roots":[{"type":"object","name":"Figure","id":"p5652","attributes":{"min_width":900,"x_range":{"type":"object","name":"FactorRange","id":"p5651","attributes":{"factors":["Columbia University","Cornell University","Dartmouth College","Duke University","Harvard Business School","Harvard University","Massachusetts Institute of Technology (MIT)","Northwestern University","Princeton University","Stanford University","Stanford University Graduate School of Business","University of California, Berkeley","University of Michigan","University of Pennsylvania","Yale University"]}},"y_range":{"type":"object","name":"DataRange1d","id":"p5654"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p5665"},"y_scale":{"type":"object","name":"LinearScale","id":"p5667"},"title":{"type":"object","name":"Title","id":"p5728","attributes":{"text":"Categories of Startup Companies in US","text_font_size":"12pt","align":"center"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p5703","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p5648","attributes":{"selected":{"type":"object","name":"Selection","id":"p5649","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p5650"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAACQAAAAoAAAALAAAADAAAAA0AAAAOAAAA"},"shape":[15],"dtype":"int32","order":"little"}],["institution",{"type":"ndarray","array":["Columbia University","Cornell University","Dartmouth College","Duke University","Harvard Business School","Harvard University","Massachusetts Institute of Technology (MIT)","Northwestern University","Princeton University","Stanford University","Stanford University Graduate School of Business","University of California, Berkeley","University of Michigan","University of Pennsylvania","Yale University"],"shape":[15],"dtype":"object","order":"little"}],["CA",{"type":"ndarray","array":{"type":"bytes","data":"mUWrkxTyoD88jAomyCWrP8ewzhQaLaE/IocVFyWjoT8uSkYj6NO9PxGaar+6kLY/ocfLm5YSqT+g/z6yTaigP/gqn1/OXaM/WA2LvfULyz95Tq9PgSOwP6UI3J/XIr0/5wuRzdEwpj8DWKa82j6pPwP030e2CaU/"},"shape":[15],"dtype":"float64","order":"little"}],["NY",{"type":"ndarray","array":{"type":"bytes","data":"kVO4rf8RsD9aVhzNIZuwP64Fwo7FyKQ/Jpl/FhSboz/jYl5aOwTDP3SPnlBdlrs/0hBSDE7tpj/LkFO4rf+hP0NLiffZUag/ysDTrflhwT+/Hkap+JqpP0NyAa+30a8/gqGrdHo2pT9c9hviidaxP59TtVVA7ak/"},"shape":[15],"dtype":"float64","order":"little"}],["Others",{"type":"ndarray","array":{"type":"bytes","data":"rZFfIapLoj91sKx+py+uPxNkP93zB6M/rAxXhdZwpD96gv9fbYrCPzcexGttSbg/dYo8m4/Mrj95SdeKyXWjP/cPenZEhKg/5dinkp9GxT+qyR14i6apP8e1o2yatrE/3Z9VZCRTqj/CS5D9dM+vP3ieXgveN6Y/"},"shape":[15],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p5704","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p5705"}}},"glyph":{"type":"object","name":"VBar","id":"p5700","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"fill_color":{"type":"value","value":"#2c7fb8"},"hatch_color":{"type":"value","value":"#2c7fb8"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p5701","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#2c7fb8"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#2c7fb8"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p5702","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"CA"},"line_color":{"type":"value","value":"#2c7fb8"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#2c7fb8"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#2c7fb8"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}},{"type":"object","name":"GlyphRenderer","id":"p5712","attributes":{"data_source":{"id":"p5648"},"view":{"type":"object","name":"CDSView","id":"p5713","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p5714"}}},"glyph":{"type":"object","name":"VBar","id":"p5709","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#7fcdbb"},"fill_color":{"type":"value","value":"#7fcdbb"},"hatch_color":{"type":"value","value":"#7fcdbb"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p5710","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#7fcdbb"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#7fcdbb"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#7fcdbb"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p5711","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"NY"},"line_color":{"type":"value","value":"#7fcdbb"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#7fcdbb"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#7fcdbb"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}},{"type":"object","name":"GlyphRenderer","id":"p5721","attributes":{"data_source":{"id":"p5648"},"view":{"type":"object","name":"CDSView","id":"p5722","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p5723"}}},"glyph":{"type":"object","name":"VBar","id":"p5718","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#edf8b1"},"fill_color":{"type":"value","value":"#edf8b1"},"hatch_color":{"type":"value","value":"#edf8b1"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p5719","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#edf8b1"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"#edf8b1"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"#edf8b1"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p5720","attributes":{"x":{"type":"field","field":"institution"},"top":{"type":"field","field":"Others"},"line_color":{"type":"value","value":"#edf8b1"},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"value","value":"#edf8b1"},"fill_alpha":{"type":"value","value":0.5},"hatch_color":{"type":"value","value":"#edf8b1"},"hatch_alpha":{"type":"value","value":0.5}}},"muted":true}}],"toolbar":{"type":"object","name":"Toolbar","id":"p5658","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p5682"},{"type":"object","name":"WheelZoomTool","id":"p5683"},{"type":"object","name":"BoxZoomTool","id":"p5684","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p5685","attributes":{"syncable":false,"level":"overlay","visible":false,"left_units":"canvas","right_units":"canvas","bottom_units":"canvas","top_units":"canvas","line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5}}}},{"type":"object","name":"SaveTool","id":"p5686"},{"type":"object","name":"ResetTool","id":"p5687"},{"type":"object","name":"HelpTool","id":"p5688"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p5675","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p5677","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p5676"},"axis_label":"Normalized counts of founders per institution","axis_label_text_font_size":"12pt","major_label_policy":{"type":"object","name":"AllLabels","id":"p5678"}}}],"right":[{"type":"object","name":"Legend","id":"p5724","attributes":{"click_policy":"mute","label_text_font_size":"12pt","items":[{"type":"object","name":"LegendItem","id":"p5725","attributes":{"label":{"type":"value","value":"CA"},"renderers":[{"id":"p5703"}]}},{"type":"object","name":"LegendItem","id":"p5726","attributes":{"label":{"type":"value","value":"NY"},"renderers":[{"id":"p5712"}]}},{"type":"object","name":"LegendItem","id":"p5727","attributes":{"label":{"type":"value","value":"Others"},"renderers":[{"id":"p5721"}]}}]}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p5669","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p5671"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p5670"},"axis_label":"Institutions","axis_label_text_font_size":"12pt","major_label_orientation":"vertical","major_label_policy":{"type":"object","name":"AllLabels","id":"p5672"}}}],"center":[{"type":"object","name":"Grid","id":"p5674","attributes":{"axis":{"id":"p5669"}}},{"type":"object","name":"Grid","id":"p5681","attributes":{"dimension":1,"axis":{"id":"p5675"}}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('p5980').textContent;
+              const render_items = [{"docid":"52f5e891-d46b-4329-b869-1e470b58bbb7","roots":{"p5652":"c6b1a473-db77-4b31-9cf5-20d2737f5a9a"},"root_ids":["p5652"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
