@@ -67,7 +67,7 @@ Looking at a map showing the location of startups across the US, you see that Ca
        width="900"
        height="500"
 />  
-    <figcaption>Fig 4: Hover over the map to see the number of startups per state in US .</figcaption>
+    <figcaption>Fig 4: Hover over the map to see the number of startups per state in US.</figcaption>
 </figure>
 The type of startup companies can vary significantly from state to state. For example, California has a high concentration of tech, biotech and enterprise startups. On the other hand, there are few companies in these fields in New York, but there is a higher concentration of startups in ecommerce and advertising. This already shows that there are differences between states and startups. States like California and New York tend to have a higher concentration of startups. And as a new founder, there may be advantages to researching the type of environment in a city before deciding where to start your business.
 <figure>
@@ -121,7 +121,7 @@ There are many advantages of having offices in the city. The possibilities are p
        width="900"
        height="500"
 />  
-    <figcaption>Fig 9: Average wage per state [[7]](https://datausa.io){:target="_blank"}{:rel="noopener noreferrer"}.</figcaption>
+    <figcaption>Fig 9: Average wage per state.</figcaption>
 </figure>
 It seems reasonable to assume that the higher the state's average wage, the stronger the possibility of finding someone in the city with deep pockets to help you along your startup journey. Looking at the distribution of funding, the assumption is correct. 
 <figure>
@@ -141,9 +141,9 @@ Funding is centered around the big city areas and distributed in many States wit
        width="900"
        height="500"
 />  
-    <figcaption>Fig 11: There are many clear spikes in the amount of funding over the years, indicating specific events that are happening. .</figcaption>
+    <figcaption>Fig 11: There are many clear spikes in the amount of funding over the years, indicating specific events that are happening.</figcaption>
 </figure>
-The largest spike, seen in mid-2008, is investments made in the company 'Clearwire' the day before the announcement of a big merger between the company and 'Sprint Nextel [[8]](https://en.wikipedia.org/wiki/Clearwire){:target="_blank"}{:rel="noopener noreferrer"}. A guess as to why the investment size is so significant is Sprint Nextel's investment in the company. In general, all spikes show a significant amount of money and how much money flows in startups daily, underlining the importance of startups for economic growth in a country. Funnily enough, there were also some spikes in 2010 and 2011, despite only a few short years after the financial crisis in 2008. But the standard advice is to buy when the market is down, and someone seems to have taken that seriously, keeping the internet boom alive with big investments in Tesla, AOL, Facebook, Wave Broadband, and Clearwire. So now the big question is, besides timing in terms of the market, crisis, and other external factors, are there periods in a year when a company should invest more time in promoting and seeking investments? 
+The largest spike, seen in mid-2008, is investments made in the company 'Clearwire' the day before the announcement of a big merger between the company and 'Sprint Nextel [[7]](https://en.wikipedia.org/wiki/Clearwire){:target="_blank"}{:rel="noopener noreferrer"}. A guess as to why the investment size is so significant is Sprint Nextel's investment in the company. In general, all spikes show a significant amount of money and how much money flows in startups daily, underlining the importance of startups for economic growth in a country. Funnily enough, there were also some spikes in 2010 and 2011, despite only a few short years after the financial crisis in 2008. But the standard advice is to buy when the market is down, and someone seems to have taken that seriously, keeping the internet boom alive with big investments in Tesla, AOL, Facebook, Wave Broadband, and Clearwire. So now the big question is, besides timing in terms of the market, crisis, and other external factors, are there periods in a year when a company should invest more time in promoting and seeking investments? 
 <figure>
     <embed
        type="text/html" 
@@ -174,7 +174,7 @@ Common for startup employees is an educational background within an Ivy League s
        width="900"
        height="600"
 />  
-    <figcaption>Fig 14: .</figcaption>
+    <figcaption>Fig 14: Most people have a Bachelor of Arts og Bachelor of Science, not everyone takes a Master's degree.</figcaption>
 </figure>
 
 As a founder, the answer must be no. It can be seen that most founders have only a bachelor's degree. To be a founder, you don't necessarily need a Ph.D. in finance but rather a good idea and the right competencies in the area the idea spans. As the company grows, hiring different people with different backgrounds can be advantageous. For example, it is seen that more Directors and CEOs have an MBA education, which is consistent with their role in the companies. 
