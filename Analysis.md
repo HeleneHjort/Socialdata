@@ -52,7 +52,7 @@ Although there is an increase in new business startups, not all of them survive.
        width="900"
        height="500"
 />  
-    <figcaption>Fig 3: This article focuses mainly on companies that still operate.</figcaption>
+    <figcaption>Fig 3: This article mainly focus on companies that are still operate.</figcaption>
 </figure>
 Startups are an interesting area to look into, as they are a big part of the business market. The startup companies create new jobs and contribute to economic growth and local communities development. Overall, the relationship between startups and cities is complex and multifaceted. Startups have the potential to drive economic growth, create jobs, and transform industries, but the question remains, is it the city that gives birth to startups, or do startups move to the city? And can we find the explanation of which factors the company's success depends on?
 
@@ -77,7 +77,7 @@ The nature of startup companies can vary significantly from state to state. For 
        width="900"
        height="600"
 />  
-    <figcaption>Fig 5: Tech is the biggest industry within the startup environment.</figcaption>
+    <figcaption>Fig 5: Tech is the biggest industry within the startup environment. Click states on and off to get the desired view.</figcaption>
 </figure>
 As a general trend big cities attract a greater number of startups. This is evident from the fact that the top ten cities for startup locations in the US are predominantly some of the largest cities in their state. Big cities do have special advantages as there are more opportunities than smaller cities. For example when it comes to expanding your network, the bigger the city, the better the chance of a greater network. Which can be vital for the survival of a startup, as it was said by Diana Helbig president of Helbig Enterprises “Networking is an investment in your business. It takes time and when done correctly can yield great results for years to come." [[5]](https://blog.hubspot.com/marketing/networking-quotes){:target="_blank"}{:rel="noopener noreferrer"} 
 Taking a closer look the majority of the cities are from the two coastal states, California and New York. In California  there are two primary hubs of activity: Silicon Valley (San Francisco) and Los Angeles. These regions are known for being home to many new and innovative companies driving the state's economy and shaping the future of technology and business. These areas are also characterized by a dense concentration of venture capital firms, incubators, and accelerators providing the resources and support startups need to grow and thrive. 
@@ -89,7 +89,7 @@ Taking a closer look the majority of the cities are from the two coastal states,
        width="900"
        height="500"
 />  
-    <figcaption>Fig 6: New York City and San Francisco are market leaders.</figcaption>
+    <figcaption>Fig 6: New York City and San Francisco are market leaders. </figcaption>
 </figure>
 
 The support can be very different deeping on the industries your startup operates in. For example if a startup working with developing medical equipment is compared with a consultancy startup. The medicine startup may need money for equipment, knowledge or legal advice, whereas the consultancy may only need startup capital for office spaces or recruitment. The map below shows the exact locations of the companies' offices and the industries they operate in. The two hubs in Los Angeles and San Francisco are clearly shown. Silicon Valley in San Fransico is the birthplace of many of the world's most successful tech companies, including Apple, Google, and Facebook. Los Angeles, located in southern California, is known for having its unique startup ecosystem focused on entertainment, media, and e-commerce. In addition, the map highlights many companies in the field of biotech. Interesting enough, the map highlights a larger field of biotech companies. California has in the latest couple of years grown more into biotech, which already is represented at the map." [[6]](https://www.fiercebiotech.com/special-reports/top-biotech-hubs){:target="_blank"}{:rel="noopener noreferrer"}
@@ -102,7 +102,7 @@ The support can be very different deeping on the industries your startup operate
        width="900"
        height="500"
 />  
-    <figcaption>Fig 7: Companies and their branches in California.</figcaption>
+    <figcaption>Fig 7: Companies and their branches in California. Hover over the map to see the specific company.</figcaption>
 </figure>
 If you look at industries in New York, it is unsurprising that the biggest hub is New York City (NYC). NYC is internationally known for its diversity and high paced business environment, where finance and management consulting are buzzwords. Many of the world's largest companies are located in this city including McKinsey & Company, Chartis Group, Bain & Company, Pfizer, and Goldman Sachs [[7]](https://www.consultancy.uk/news/13677/the-top-10-management-consulting-firms-to-work-for-in-new-york){:target="_blank"}{:rel="noopener noreferrer"}. Not all of these firms were founded in NYC, but the fact that they are present in the city is among the factors that attract startups, and as it can be seen from the map, especially startups working with consulting and  e-commerece. Beyond consulting, NYC also have tech startups, with companies such as IBM, Etsy and E*Trade all founded in NYC [[8]](https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/the-history-of-new-yorks-silicon-alley/){:target="_blank"}{:rel="noopener noreferrer"}. It also a trend that is represented in the map where startups within software and video games are also some of the more common industries. 
 <figure>
@@ -112,7 +112,7 @@ If you look at industries in New York, it is unsurprising that the biggest hub i
        width="900"
        height="500"
 />  
-    <figcaption>Fig 8: Companies and their branches in New York.</figcaption>
+    <figcaption>Fig 8: Companies and their branches in New York. Hover over the map to see the specific company.</figcaption>
 </figure>
 Overall, the hubs from both states show a diversity that supports the previously mentioned reasons for locating in large cities, as well as cities with an environment within one's industry. Startups unfortunately cannot survive on good ideas alone, often a significant amount of funding is also needed.
 
@@ -125,7 +125,7 @@ Funding, and money in general can be hard to come by, and lack of it is one of t
        width="900"
        height="500"
 />  
-    <figcaption>Fig 9: Heatmap of the amount of funding a company has received between 1998 and 2013.</figcaption>
+    <figcaption>Fig 9: Heatmap of the amount of funding a company has received between 1998 and 2013. Click play to play the time series or use the slider.</figcaption>
 </figure>
 The funding is not surprisingly following the same trends as the location for startups, and are centered around the big city areas. The distribution of funding has, however, changed over the years especially across the middle states where the amount of funding differs a lot. Still, big hubs around the coastal cities are apparent throughout all years. But why are the places for funding so stationary over time? Logically if you are looking for funding, you will also go to a place where you have an idea that money circulates. To investigate this theory outside data from DATA USA [[10]](https://datausa.io/){:target="_blank"}{:rel="noopener noreferrer"} is incorporated to compare the funding locations with the average wages on state level in 2013. The distribution can be seen from the map below. Looking at the average wage by state, it can be seen that the coastal states do have a high average, and that in general the states with high wages correspond to the areas with high amounts of funding. On that basis it seems reasonable to assume that the higher the state's average wage, the stronger the possibility of finding a company or private investor to provide funding.
 
@@ -172,7 +172,7 @@ Is education an instrumental factor in a startup's success? The plot below shows
        width="900"
        height="600"
 />  
-    <figcaption>Fig 13: Most people have a Bachelor of Arts og Bachelor of Science, not everyone takes a Master's degree.</figcaption>
+    <figcaption>Fig 13: Most people have a Bachelor of Arts, Bachelor of Science, and a MBA .</figcaption>
 </figure>
 The figure below shows an overview of which educational institutions are the most widely attended by the startups' employees. Stanford University is the most attended school, also by people from startups located in other cities, showing that this is a widely preferred university. It is actually a statistical fact that the majority of entrepreneurs in the US are graduates of Stanford University [[13]](https://www.demandsage.com/startup-statistics/){:target="_blank"}{:rel="noopener noreferrer"}. The university closely following Standard in attendance is Havard University and Berkley. Interestingly the number of Harvard attendance from CA is almost identical to the number from NY. Showing that the university. People start businesses in different cities than where their education is from, which may mean that the choice of the city has an influence when starting a business. The overall trend is that the educational background is within an Ivy League school. This shows a correlation between starting a business and having an Ivy League education. This may be because there is a greater focus on entrepreneurship, networking and a better financial background.
 <figure>
@@ -184,7 +184,7 @@ The figure below shows an overview of which educational institutions are the mos
 />  
     <figcaption>Fig 14: People involved in startups typically have a high-level degree from an Ivy League university.</figcaption>
 </figure>
-Furthermore, there is a strong correlation between the type of enterprise and the type of education and training. Most people have a background in computer science, which makes sense as most companies nowadays need knowledge of online products such as websites and apps. 
+Furthermore, there is a strong correlation between the type of enterprise and the type of education. Most people have a background in computer science, which makes sense as most companies nowadays need knowledge of online products such as websites and apps. 
 <figure>
     <embed
        type="text/html" 
@@ -192,11 +192,12 @@ Furthermore, there is a strong correlation between the type of enterprise and th
        width="900"
        height="600"
 />  
-    <figcaption>Fig 15: People involved in startups typically have a high-level degree from an Ivy League university.</figcaption>
+    <figcaption>Fig 15: There is a strong correlation between the type of enterprise and the type of education.</figcaption>
 </figure>
 
 In conclusion, education can be a significant factor in a startup's success, particularly in top management positions, where having a business degree, such as an MBA, is common. Furthermore, the educational institution from which one graduates plays a role in the startup world. Overall, the plot and figure illustrate the importance of education and its potential impact on the success of startups.
 
-# Summing Up: Is it Possible to Crack the Startup Code?
+# Is it Possible to Crack the Startup Code?
+
 Is it the city that gives birth to startups, or do startups move to the city? And can we find the explanation of which factors the company's success depends on? The startup landscape is of a complex size. No size fits all, and there is no recipe for a successful startup. However, big cities attract more startups due to the availability of more opportunities, resources, and a larger network. Furthermore, startups often bring new technologies and innovative solutions to existing problems, which can benefit the wider community. California and New York are the primary hubs of startup activity, with Silicon Valley and Los Angeles being the most significant in California. 
 The startup ecosystem in a city is complex, and the relationship between startups and cities is multifaceted. The nature of startup companies can vary significantly based on location, such as in Silicon Valley, where tech startups take up the majority. Therefore, new founders can reach advantages if they research the type of environment in a city before deciding where to start their business, as this can impact future success. Summing up, it was not found with certainty whether the city gives birth to startups or if startups move to the city, but your chance of success is better in a big city and with an education, as both expand your options. 
