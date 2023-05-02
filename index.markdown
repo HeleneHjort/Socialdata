@@ -4,6 +4,10 @@
 
 layout: home
 title: Startup Environment in US
+authors:
+  - Helene Hjort, s194665
+  - Kathrine Sofie Rasmussen, s194654
+  - Sascha Thorsgaard Jacobsen, s171281
 ---
 
 

@@ -34,8 +34,8 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
-favicon: /favicon.ico
-apple_touch_icon: /assets/img/logo2.png
+favicon: /Socialdata/_site/assets/icons/logo2.png
+apple_touch_icon: Socialdata/_site/assets/icons/logo2.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
